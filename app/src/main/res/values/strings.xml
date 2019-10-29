@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="answer">Answer</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="result_message">Result Message</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="game_over">Game Over</string>
+</resources>
